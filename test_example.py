@@ -1,3 +1,3 @@
-def test_example():
-    assert 2+3==5
+def test_example(a,b):
+    assert 3+2==5
     
